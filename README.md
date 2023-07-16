@@ -32,7 +32,3 @@ const xbogus = sign(query, userAgent);
 const newUrl = url + "&X-Bogus=" + xbogus;
 console.log(newUrl);
 ```
-
-## `🧑‍💻` Contact
-- **Telegram**: t.me/aithedev
-- **Discord**: ai#4444 (1097683941600796712)
