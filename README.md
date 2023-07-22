@@ -32,3 +32,6 @@ const xbogus = sign(query, userAgent);
 const newUrl = url + "&X-Bogus=" + xbogus;
 console.log(newUrl);
 ```
+### `👨‍💻` Contact
+- **Telegram**: @angelillija
+- **Discord**: @angel.illija
