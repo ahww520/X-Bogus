@@ -34,4 +34,4 @@ console.log(newUrl);
 ```
 ### `👨‍💻` Contact
 - **Telegram**: @angelillija
-- **Discord**: @angel.illija
+- **Discord**: @angelillija
