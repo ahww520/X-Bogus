@@ -33,5 +33,5 @@ const newUrl = url + "&X-Bogus=" + xbogus;
 console.log(newUrl);
 ```
 ### `👨‍💻` Contact
-- **Telegram**: @angelillija
+- **Telegram**: [@angell](https://t.me/angell)
 - **Discord**: @angelillija
