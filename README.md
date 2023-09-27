@@ -1,4 +1,4 @@
-# [Freelancer for hire, Contact t.me/angell](https://t.me/angell)
+# Contact For Freelance Work [(here)](https://t.me/angell)
 
 # X-Bogus
 TikTok X-Bogus Signature Generator.
