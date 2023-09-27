@@ -1,10 +1,10 @@
-# X-Bogus
+## X-Bogus
 TikTok X-Bogus Signature Generator.
 
 
 **`⭐` Make sure to star this project!**
 
-# Example Usage 
+### `⚙️` Example Usages 
 `Python:`
 ```py
 import execjs    
